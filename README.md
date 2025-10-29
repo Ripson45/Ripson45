@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Ripson 👋  
 
-<!--
-**Ripson45/Ripson45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Mechanical Engineering Graduate | Aspiring Data Analyst**  
+📊 Skilled in **SQL, Power BI, Excel & Python**  
+💡 Passionate about transforming data into actionable insights  
+🌱 Currently learning advanced analytics and visualization  
+📍 Based in Bengaluru, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Technologies
+- Python 🐍  
+- Power BI 📊  
+- SQL 🧩  
+- Excel 📗  
+
+---
+
+### 📈 What I'm Working On
+- Building real-world data analysis projects  
+- Learning data storytelling and dashboard design  
+- Exploring business insights through analytics  
+
+---
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/ripsonmech)  
+✉️ Email: ripsonmech45@gmail.com  
